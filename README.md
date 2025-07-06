@@ -10,7 +10,7 @@ Grup 54 Google Takımı
 
 # Oyun ismi
 
-Ruhların Politikası
+Ruhların Patikası
 
 # Oyun açıklaması
 
