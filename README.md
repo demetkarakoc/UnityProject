@@ -62,12 +62,18 @@ Oyuncu, 2D platform yapısında ilerleyen bu oyunda, sahipsiz hayvanlara yardım
 - Tasarım Grubu karakterlerin görsel tasarımını tamamen yapmıştır.
 
 **Toplantı ve whatsapp ssleri** :
+
+![Image](https://github.com/user-attachments/assets/82864669-37f9-4f57-9215-86b15fa189e3)
+
 ![Image](https://github.com/user-attachments/assets/6edf5585-cf5b-4e12-852c-d41d5b489b91)
 
-**Referans görsel** : Sahne 1
+**Referans görsel** : 
+
 ![Image](https://github.com/user-attachments/assets/c160b531-b0dc-4bf4-9408-58278f3aceb1)
 
 **Ürün durumu görüntüleri** :
+Sahne 1
+
 ![Image](https://github.com/user-attachments/assets/e266aba6-b673-4879-a460-f4d5c27e4b0b)
 
 ![Image](https://github.com/user-attachments/assets/8b4e04d2-932d-4d39-a376-a3a14c9b7197)
@@ -75,6 +81,7 @@ Oyuncu, 2D platform yapısında ilerleyen bu oyunda, sahipsiz hayvanlara yardım
 ![Image](https://github.com/user-attachments/assets/f23e0c15-7d1f-42a2-8760-073f79bd6c30)
 
 Sahne 2
+
 ![Image](https://github.com/user-attachments/assets/464bbfc9-df79-4c50-9b75-5acbe157d519)
 
 ![Image](https://github.com/user-attachments/assets/23033470-5edd-4596-9dcf-2e510bb88890)
