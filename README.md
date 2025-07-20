@@ -65,7 +65,7 @@ Oyuncu, 2D platform yapısında ilerleyen bu oyunda, sahipsiz hayvanlara yardım
 
 ![Image](https://github.com/user-attachments/assets/b14ab5ae-7e7e-443f-bd75-3d86a4feddb0)
 
-![Image](https://github.com/user-attachments/assets/6edf5585-cf5b-4e12-852c-d41d5b489b91)
+![Image](https://github.com/user-attachments/assets/4a0b4ae4-c6a3-4abd-b6b5-c5fd3c2f3c0a)
 
 **Referans görsel** : 
 
@@ -100,7 +100,7 @@ https://github.com/user-attachments/assets/d63570be-10d8-4100-ba07-e439528f2ab9
 - Geliştiriciler oyuna yeni bir engel eklemiş ve engel yazılımı eklenmiştir.
 - **Sprint Review katılımcıları** : Sena Dikici, İrem Gökdemir, Yusuf Eren Bakınç, Hakan Özkan, Demet Karakoç
 
-  **Sprint Retrospective** :
+**Sprint Retrospective** :
   
 1. Ürünün son hali ve son haline dair görseller diğer sprint’e kalmıştır.
 2. Tasarım ekibi ve Scrum Master ile ayrı bir toplantı yapılmış, karakter tasarımı ve kullanılacak araçlar ile ilgili karar verilmiştir.
