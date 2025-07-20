@@ -62,14 +62,38 @@ Oyuncu, 2D platform yapısında ilerleyen bu oyunda, sahipsiz hayvanlara yardım
 - Tasarım Grubu karakterlerin görsel tasarımını tamamen yapmıştır.
 
 **Toplantı ve whatsapp ssleri** :
-**Referans görsel** :
+![Image](https://github.com/user-attachments/assets/6edf5585-cf5b-4e12-852c-d41d5b489b91)
+
+**Referans görsel** : Sahne 1
+![Image](https://github.com/user-attachments/assets/c160b531-b0dc-4bf4-9408-58278f3aceb1)
+
 **Ürün durumu görüntüleri** :
+![Image](https://github.com/user-attachments/assets/e266aba6-b673-4879-a460-f4d5c27e4b0b)
+
+![Image](https://github.com/user-attachments/assets/8b4e04d2-932d-4d39-a376-a3a14c9b7197)
+
+![Image](https://github.com/user-attachments/assets/f23e0c15-7d1f-42a2-8760-073f79bd6c30)
+
+Sahne 2
+![Image](https://github.com/user-attachments/assets/464bbfc9-df79-4c50-9b75-5acbe157d519)
+
+![Image](https://github.com/user-attachments/assets/23033470-5edd-4596-9dcf-2e510bb88890)
+
+![Image](https://github.com/user-attachments/assets/ee8eab97-d741-48f8-9fce-de79dab7f833)
+
+![Image](https://github.com/user-attachments/assets/a7fe1341-0ea2-46d1-889d-da5f52938e1f)
+
+https://github.com/user-attachments/assets/33c019cb-4754-4f8c-a2c4-7c1f411fa9ac
+
+
 **Sprint Review**:
+
 - Sprint 2 sonunda ekip ile Whatsapp üzerinden iletişime geçilmiş ve sprint gözden geçirilmiştir.  Karakter tasarımının son hali üzerinden tartışılmış ve karar verilmiştir.
 - Geliştiriciler oyuna yeni bir engel eklemiş ve engel yazılımı eklenmiştir.
 - **Sprint Review katılımcıları** : Sena Dikici, İrem Gökdemir, Yusuf Eren Bakınç, Hakan Özkan, Demet Karakoç
 
   **Sprint Retrospective** :
+  
 1. Ürünün son hali ve son haline dair görseller diğer sprint’e kalmıştır.
 2. Tasarım ekibi ve Scrum Master ile ayrı bir toplantı yapılmış, karakter tasarımı ve kullanılacak araçlar ile ilgili karar verilmiştir.
 3. Developer grubundan bir ekip üyesi projeye katılamamış ve diğer ekip üyesi bir süre tek çalışmıştır. Daha sonra diğer ekip üyesi 2.ci sprint yarısında kalınan yerden devam etmiştir.
