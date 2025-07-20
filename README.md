@@ -104,7 +104,7 @@ https://github.com/user-attachments/assets/d63570be-10d8-4100-ba07-e439528f2ab9
   
 1. Ürünün son hali ve son haline dair görseller diğer sprint’e kalmıştır.
 2. Tasarım ekibi ve Scrum Master ile ayrı bir toplantı yapılmış, karakter tasarımı ve kullanılacak araçlar ile ilgili karar verilmiştir.
-3. Developer grubundan bir ekip üyesi projeye katılamamış ve diğer ekip üyesi bir süre tek çalışmıştır. Daha sonra diğer ekip üyesi 2.ci sprint yarısında kalınan yerden devam etmiştir.
+3. Developer grup birlikte çalışarak, ana karakterin mekanik yazılımlarını ve oyun seviyelerinde yer alan engellere ait yazılımları eklemiştir.
 4. Takım üyelerinin gelecek sprint içerisinde projeyi tamamlanma gerektiğine vurgu yapılmıştır.
 5. Grup üyelerinden 2.ci Sprint’ e kadar yaptıkları görevlere dair görseller istenmiştir.
 6. Karakterin çoğu animasyonları ve mekanikleri tamamlanmıştır.
