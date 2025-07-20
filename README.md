@@ -63,7 +63,7 @@ Oyuncu, 2D platform yapısında ilerleyen bu oyunda, sahipsiz hayvanlara yardım
 
 **Toplantı ve whatsapp ssleri** :
 
-![Image](https://github.com/user-attachments/assets/82864669-37f9-4f57-9215-86b15fa189e3)
+![Image](https://github.com/user-attachments/assets/b14ab5ae-7e7e-443f-bd75-3d86a4feddb0)
 
 ![Image](https://github.com/user-attachments/assets/6edf5585-cf5b-4e12-852c-d41d5b489b91)
 
@@ -90,7 +90,8 @@ Sahne 2
 
 ![Image](https://github.com/user-attachments/assets/a7fe1341-0ea2-46d1-889d-da5f52938e1f)
 
-https://github.com/user-attachments/assets/33c019cb-4754-4f8c-a2c4-7c1f411fa9ac
+
+https://github.com/user-attachments/assets/d63570be-10d8-4100-ba07-e439528f2ab9
 
 
 **Sprint Review**:
