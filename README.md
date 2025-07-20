@@ -56,7 +56,7 @@ Oyuncu, 2D platform yapısında ilerleyen bu oyunda, sahipsiz hayvanlara yardım
 
 
 
-# SPRİNT 2
+# SPRINT 2
 - **Sprint içinde tamamlanması tahmin edilen puan** : 12
 - **Daily Scrum** = Daily Scrum toplantıları hem Whatsapp üzerinden hem de Google Meet üzerinden devam etmiştir. Grup 54, projede ilerledikçe Whatsapp üzerinden birbirlerini bilgilendirmiş ve ilerlemelerini paylaşmıştır. Oyunun mekanik yazılımları ve karakterin yazılımları yapılmıştır.
 - Tasarım Grubu karakterlerin görsel tasarımını tamamen yapmıştır.
